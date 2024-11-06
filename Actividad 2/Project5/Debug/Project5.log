@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (Peruano.vcxproj, Project1.vcxproj, Project5.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  main.cpp
+C:\Users\oldan\Desktop\MAVI, unidad 4\Actividad 2\Project5\main.cpp(20,17): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\oldan\Desktop\MAVI, unidad 4\Actividad 2\Project5\main.cpp(20,17): warning C4244:         with
+C:\Users\oldan\Desktop\MAVI, unidad 4\Actividad 2\Project5\main.cpp(20,17): warning C4244:         [
+C:\Users\oldan\Desktop\MAVI, unidad 4\Actividad 2\Project5\main.cpp(20,17): warning C4244:             T=unsigned int
+C:\Users\oldan\Desktop\MAVI, unidad 4\Actividad 2\Project5\main.cpp(20,17): warning C4244:         ]
+C:\Users\oldan\Desktop\MAVI, unidad 4\Actividad 2\Project5\main.cpp(21,18): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\oldan\Desktop\MAVI, unidad 4\Actividad 2\Project5\main.cpp(21,18): warning C4244:         with
+C:\Users\oldan\Desktop\MAVI, unidad 4\Actividad 2\Project5\main.cpp(21,18): warning C4244:         [
+C:\Users\oldan\Desktop\MAVI, unidad 4\Actividad 2\Project5\main.cpp(21,18): warning C4244:             T=unsigned int
+C:\Users\oldan\Desktop\MAVI, unidad 4\Actividad 2\Project5\main.cpp(21,18): warning C4244:         ]
+  Project5.vcxproj -> C:\Users\oldan\Desktop\MAVI, unidad 4\Actividad 2\Debug\Actividad 2.exe
